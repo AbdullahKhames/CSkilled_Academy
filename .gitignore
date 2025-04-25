@@ -1,0 +1,60 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+.settings
+.clang-format
+.cproject
+.project
+*/.settings
+*/.clang-format
+*/.cproject
+*/.project
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# CMake build directory
+/build/
+cmake-build-*/
+
+# Code::Blocks project files
+*.depend
+*.layout
+
+# Qt-specific files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Visual Studio Code settings
+.vscode/
+
+# CLion / JetBrains project files
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
+*.tmp
+
+# Other
+*.swp
+*~
