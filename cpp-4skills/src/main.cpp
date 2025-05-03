@@ -10,6 +10,8 @@
 #include "main.h"
 
 int main() {
-	demoHospital();
+	Library lib;
+	lib.librarySystem();
+
 	return 0;
 }

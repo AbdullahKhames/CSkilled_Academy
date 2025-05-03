@@ -1,15 +1,17 @@
 # Compiled object files
 *.o
 *.obj
-
+.metdata
 # Precompiled Headers
 *.gch
 *.pch
 .settings
+.clangd
 .clang-format
 .cproject
 .project
 */.settings
+*/.clangd
 */.clang-format
 */.cproject
 */.project
@@ -58,3 +60,4 @@ Thumbs.db
 # Other
 *.swp
 *~
+/.metadata/

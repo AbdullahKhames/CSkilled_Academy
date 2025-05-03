@@ -28,10 +28,8 @@ void demoHospital() {
 			printPatients();
 		} else if (selection == 3) {
 			pickUpPatient();
-		} else if (selection == 4) {
-			break;
 		} else {
-			cout << "invalid selection please choose from 1 to 4" << endl;
+			break;
 		}
 
 	}

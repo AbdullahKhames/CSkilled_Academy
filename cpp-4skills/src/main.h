@@ -9,6 +9,10 @@
 #define MAIN_H_
 
 
+#include <iostream>
+using namespace std;
 #include "hospital/hospital.h"
+#include "library/library.h"
+
 
 #endif /* MAIN_H_ */
